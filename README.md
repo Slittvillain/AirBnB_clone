@@ -149,7 +149,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:jaredatandi/AirBnB_clone_v1:
+  git clone git@github.com:Slittvillain /AirBnB_clone:
 ```
 
 ### Install
